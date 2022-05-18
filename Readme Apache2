@@ -1,0 +1,9 @@
+
+Un serveur web Apache est un serveur pour exécuter un site web sur une plateforme stable et polyvalente, c'est un moyen d'héberger un site web.
+
+Pour le configurer, il suffit d'entrer quelques paramètres dans /etc/apache2/apache2.conf.
+
+Ensuite pour changer l'aspect du site, il nous d'abord entrer quelques paramètres dans un certain fichier 000-default.conf avant de pouvoir modifier à notre guise l'index.html du site.
+
+Vous trouverez dans ce tutoriel comment installer, configurer et utiliser un serveur Apache2
+
