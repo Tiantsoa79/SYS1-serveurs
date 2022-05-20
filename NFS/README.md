@@ -6,9 +6,13 @@ Le NFS, pour Network File System, est un protocole permettant à un ordinateur d
 
 ## Comment faire ? 
 
+Il faut installer nfs-kernel-server pour le serveur Host et nfs-common pour le serveur client. Puis il faut entrer quelques configurations et aussi créer les répertoires, puis monter le fichier ajouté dans le côté client.
 
 ## Lien
 
 Vous trouverez dans ce tutoriel comment installer, configurer et utiliser un serveur NFS, dans ce fichier téléchargeable en pdf :
 
 <a href="">cliquez ici</a>
+
+
+(NB : au cas où le fichier ne s'affiche pas, veuillez le télécharger svp, ce n'est pas volumineux)
