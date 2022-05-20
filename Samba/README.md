@@ -1,6 +1,6 @@
 # Serveur Samba
 
-##C'est quoi ? 
+## C'est quoi ? 
 
 Un serveur Linux-Samba permet d'organiser les autorisations de partage de données et autres services en réseau.
 
