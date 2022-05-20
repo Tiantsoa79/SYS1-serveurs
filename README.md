@@ -9,6 +9,7 @@ Voici les _liens_ pour chaque serveur :
 [readme](https://github.com/Tiantsoa79/SYS1-serveurs/blob/main/Apache%202/README.md)
 
 * VSFTPD
+[readme](https://github.com/Tiantsoa79/SYS1-serveurs/blob/main/VFSTPD/README.md)
 
 * NGINX
 [readme](https://github.com/Tiantsoa79/SYS1-serveurs/blob/main/NGINX/README.md)
