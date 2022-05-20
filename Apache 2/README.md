@@ -1,4 +1,4 @@
-# Serveur Samba
+# Serveur Apache 2
 
 ## C'est quoi ? 
 
@@ -10,6 +10,6 @@ Après l'installation, il nous faut créer l'index du site et le répertorier, p
 
 ## Lien
 
-Vous trouverez dans ce tutoriel comment installer, configurer et utiliser un serveur Samba, dans ce fichier téléchargeable en pdf :
+Vous trouverez dans ce tutoriel comment installer, configurer et utiliser un serveur Apache2, dans ce fichier téléchargeable en pdf :
 
-<a href="https://github.com/Tiantsoa79/SYS1-serveurs/blob/main/Samba/Samba.pdf">cliquez ici</a>
+<a href="https://github.com/Tiantsoa79/SYS1-serveurs/blob/main/Apache%202/Apache%202.pdf">cliquez ici</a>
