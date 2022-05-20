@@ -15,3 +15,5 @@ C'est après la configuration que l'on peut partager des fichiers entre une mach
 Vous trouverez dans ce tutoriel comment installer, configurer et utiliser un serveur Samba, dans ce fichier téléchargeable en pdf :
 
 <a href="https://github.com/Tiantsoa79/SYS1-serveurs/blob/main/Samba/Samba.pdf">cliquez ici</a>
+
+(NB : au cas où le fichier ne s'ouvre pas, veuillez le télécharger svp, ce n'est pas volumineux)
