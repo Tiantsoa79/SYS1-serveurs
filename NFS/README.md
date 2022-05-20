@@ -12,7 +12,7 @@ Il faut installer nfs-kernel-server pour le serveur Host et nfs-common pour le s
 
 Vous trouverez dans ce tutoriel comment installer, configurer et utiliser un serveur NFS, dans ce fichier téléchargeable en pdf :
 
-<a href="">cliquez ici</a>
+<a href="https://github.com/Tiantsoa79/SYS1-serveurs/blob/main/NFS/NFS%20server.pdf">cliquez ici</a>
 
 
 (NB : au cas où le fichier ne s'affiche pas, veuillez le télécharger svp, ce n'est pas volumineux)
