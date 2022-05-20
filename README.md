@@ -3,7 +3,7 @@
 Voici les _liens_ pour chaque serveur : 
 
 *Samba 
-[readme](https://github.com/Tiantsoa79/SYS1-serveurs/blob/main/Samba%20readme)
+[readme](https://github.com/Tiantsoa79/SYS1-serveurs/blob/main/Samba/README.md)
 
 *Apache2
 [readme](https://github.com/Tiantsoa79/SYS1-serveurs/blob/main/Apache%202/README.md)
