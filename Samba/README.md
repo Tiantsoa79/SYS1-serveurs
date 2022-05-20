@@ -1,16 +1,16 @@
-# SYS1-serveurs
+# Serveur Samba
 
-Voici les _liens_ pour chaque serveur : 
+##C'est quoi ? 
 
-*Samba 
-[readme](https://github.com/Tiantsoa79/SYS1-serveurs/blob/main/Samba%20readme)
+Un serveur Linux-Samba permet d'organiser les autorisations de partage de données et autres services en réseau.
 
-*Apache2
-[readme](https://github.com/Tiantsoa79/SYS1-serveurs/blob/main/Readme%20Apache2)
+##Comment faire ? 
 
-*VSFTPD
+La configuration de Samba peut se faire : Manuellement, dans le fichier de configuration Le fichier de configuration /etc/samba/smb. conf de Samba. C'est dans ce fichier qu'on peut paramétrer le nom du domaine et le groupe de travail de l'ordinateur, les paramètres de sécurité et les dossiers et imprimantes partagés.
 
-*NGINX
+C'est après la configuration que l'on peut partager des fichiers entre une machine sous Linux et une autre sous windows par exemple.
 
-*NFS
+##Lien
+Vous trouverez dans ce tutoriel comment installer, configurer et utiliser un serveur Samba, dans ce fichier téléchargeable en pdf :
+
 
