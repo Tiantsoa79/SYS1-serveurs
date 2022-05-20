@@ -11,4 +11,6 @@ Après l'installation, il nous faut créer l'index du site et le répertorier, p
 
 Vous trouverez dans ce tutoriel comment installer, configurer et utiliser un serveur NGINX, dans ce fichier téléchargeable en pdf :
 
-<a href="">cliquez ici</a>
+<a href="https://github.com/Tiantsoa79/SYS1-serveurs/blob/main/NGINX/NGINX.pdf">cliquez ici</a>
+
+(NB : au cas où le fichier ne s'affiche pas, veuillez le télécharger svp, ce n'est pas volumineux)
