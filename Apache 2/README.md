@@ -6,7 +6,7 @@ Le logiciel libre Apache HTTP Server est un serveur HTTP créé et maintenu au s
 
 ## Comment faire ? 
 
-Après l'installation, il nous faut créer l'index du site et le répertorier, puis créer quelques configurations dans certains dossiers afin de permettre l'hébergement.
+Après l'installation, il nous faut ensuite modifier quelques paramètres dans le fichier de configuration, éventuellement modifier certaines lignes dans le code de l'index, et le tour est joué !
 
 ## Lien
 
