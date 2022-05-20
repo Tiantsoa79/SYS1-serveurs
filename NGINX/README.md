@@ -1,16 +1,14 @@
-# SYS1-serveurs
+# Serveur NGINX
 
-Voici les _liens_ pour chaque serveur : 
+## C'est quoi ? 
 
-*Samba 
-[readme](https://github.com/Tiantsoa79/SYS1-serveurs/blob/main/Samba%20readme)
+NGINX Open Source ou NGINX est un logiciel libre de serveur Web ainsi qu'un proxy inverse écrit par Igor Sysoev, dont le développement a débuté en 2002 pour les besoins d'un site russe à très fort trafic. La documentation est disponible dans plusieurs langues. 
+## Comment faire ? 
 
-*Apache2
-[readme](https://github.com/Tiantsoa79/SYS1-serveurs/blob/main/Readme%20Apache2)
+Après l'installation, il nous faut créer l'index du site et le répertorier, puis créer quelques configurations dans certains dossiers afin de permettre l'hébergement.
 
-*VSFTPD
+## Lien
 
-*NGINX
+Vous trouverez dans ce tutoriel comment installer, configurer et utiliser un serveur NGINX, dans ce fichier téléchargeable en pdf :
 
-*NFS
-
+<a href="">cliquez ici</a>
