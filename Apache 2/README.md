@@ -13,3 +13,5 @@ Après l'installation, il nous faut ensuite modifier quelques paramètres dans l
 Vous trouverez dans ce tutoriel comment installer, configurer et utiliser un serveur Apache2, dans ce fichier téléchargeable en pdf :
 
 <a href="https://github.com/Tiantsoa79/SYS1-serveurs/blob/main/Apache%202/Apache%202.pdf">cliquez ici</a>
+
+(NB : au cas où le fichier ne s'ouvre pas, veuillez le télécharger svp, ce n'est pas volumineux)
