@@ -1,16 +1,14 @@
-# SYS1-serveurs
+# Serveur NFS
 
-Voici les _liens_ pour chaque serveur : 
+## C'est quoi ? 
 
-*Samba 
-[readme](https://github.com/Tiantsoa79/SYS1-serveurs/blob/main/Samba%20readme)
+Le NFS, pour Network File System, est un protocole permettant à un ordinateur d'accéder à des fichiers extérieurs via un réseau. Développé dans les années 80, le NFS s'est ensuite imposé comme la norme en matière de serveur de fichiers.
 
-*Apache2
-[readme](https://github.com/Tiantsoa79/SYS1-serveurs/blob/main/Readme%20Apache2)
+## Comment faire ? 
 
-*VSFTPD
 
-*NGINX
+## Lien
 
-*NFS
+Vous trouverez dans ce tutoriel comment installer, configurer et utiliser un serveur NFS, dans ce fichier téléchargeable en pdf :
 
+<a href="">cliquez ici</a>
